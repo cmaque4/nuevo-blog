@@ -1,14 +1,14 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Porqué cree este Blog?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  Debido a que he estado aprendiendo diferentes cosas sobre Rstudio, como son el manejo de paquetes como el uso de estos, las formas de reporte como en Rmarkdown, tanto como diapositivas y diferentes presentaciones que existen, se me ocurrió la idea de crear este blog, y así compartir diferentes cosas que estoy haciendo, que son básicas, sin embargo, es algo que tal vez pueda ser de ayuda a alguien que recién esta empezando con todo este mundo.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  Junto con este blog también estan los diferentes links, como son **Github**, **Rpubs**, **twitter** donde comparto lo que estoy trabajando y claramente también hago los cambios respectivos cuando aprendo algo nuevo, para que pueda ser visto por las personas.
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!

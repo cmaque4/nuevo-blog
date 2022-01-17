@@ -1,11 +1,11 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
-role: "A Hugo theme"
+author: "Carlos Puma"
+# role: <span style="color:#4C0027">**"Estudiante de Psicología e Investigador Principiante"**</span>
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+ # audio_link_label: "How to say my name" # leave blank to exclude
+link_list_label: "Mis intereses" # bookmarks, elsewhere, etc.
 link_list:
 - name: Paris
   url: https://en.wikipedia.org/wiki/Paris
