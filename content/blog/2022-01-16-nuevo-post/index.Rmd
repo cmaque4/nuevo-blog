@@ -1,8 +1,0 @@
----
-title: nuevo post
-author: Carlos Puma
-date: '2022-01-16'
-slug: []
-categories: []
-tags: []
----

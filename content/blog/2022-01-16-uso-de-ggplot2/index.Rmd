@@ -1,0 +1,21 @@
+---
+title: Uso de ggplot2
+author: Carlos Puma
+date: '2022-01-16'
+slug: []
+categories: []
+tags: []
+---
+
+# Primeros pasos
+
+Mushoku Tensei: Isekai Ittara Honki Dasu (無職転生 〜異世界行ったら本気だす〜?), también conocida como Mushoku Tensei: Jobless Reencarnation o como Mushoku Tensei: Reencarnación desde cero en España, es una novela web japonesa escrita por Rifujin na Magonote, publicada originalmente en el sitio web Shōsetsuka ni Narō entre el 22 de noviembre de 2012 y el 3 de abril de 2015. Una serie de novelas ligeras comenzó su publicación el 23 de enero de 2014 bajo el sello MF Books de Media Factory con ilustraciones realizadas por un usuario de Pixiv llamado ShiroTaka.
+
+#### Complementando ideas 
+
+Una adaptación al manga con arte de Yuka Fujikawa comenzó su serialización en la edición de junio de 2014 de Monthly Comic Flapper y un spin-off de Shoko Iwami se publica en el sitio ComicWalker de Kadokawa desde diciembre de 2017. Una adaptación al anime de Studio Bind fue anunciada para el año 2020, pero por motivos de la pandemia de COVID-19 fue aplazada para el 10 de enero de 2021.
+
+```{r}
+library(tidyverse)
+```
+
