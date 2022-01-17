@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Carlos Puma"
-# role: <span style="color:#4C0027">**"Estudiante de Psicología e Investigador Principiante"**</span>
+role: <span style="color:#064635">**Estudiante de Psicología e Investigador Principiante**</span>
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
  # audio_link_label: "How to say my name" # leave blank to exclude

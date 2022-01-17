@@ -11,7 +11,7 @@ intro: |
   Junto con este blog también estan los diferentes links, como son **Github**, **Rpubs**, **twitter** donde comparto lo que estoy trabajando y claramente también hago los cambios respectivos cuando aprendo algo nuevo, para que pueda ser visto por las personas.
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-seedling pr2"></i>Gracias por Visitarme
 ---
 
 ** index doesn't contain a body, just front matter above.
