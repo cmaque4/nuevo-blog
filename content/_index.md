@@ -9,12 +9,12 @@ description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogo
   layouts that help you introduce yourself online.
 image_left: true
 images:
-- img/revoir.jpg
+- https://freakelitex.com/wp-content/uploads/2020/07/Mushoku-Tensei-v%C3%ADdeo.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Estudiante de Psicología e Investigador Principiante
 text_align_left: false
-title: Hugo Apéro
+title: Carlos Puma
 type: home
 ---
 
