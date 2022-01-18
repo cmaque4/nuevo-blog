@@ -1,7 +1,7 @@
 ---
-author: Alison Hill
+author: Carlos Puma
 cascade:
-  author: Alison Hill
+  author: Carlos Puma
   categories:
   - Theme Features
   - R
@@ -11,10 +11,10 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
-    text_contents_label: On this page
+    text_contents_label: Se desarrolla
     text_link_label: ""
     text_link_url: ""
-    text_series_label: In this series
+    text_series_label: Sobre esta serie
   tags:
   - hugo-site
 description: |
@@ -24,11 +24,10 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: false
 sidebar:
-  author: Alison Hill
+  author: Carlos Puma
   description: |
     A forking fun new feature for series.
     Even this sidebar offers a ton of customizations!
-
     Check out the _index.md file in the /blog/spoonful-series
     folder to edit this content.
   show_sidebar_adunit: false
