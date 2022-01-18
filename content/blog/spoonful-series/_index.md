@@ -9,11 +9,6 @@ cascade:
   series: Introducción a Rstudio
   show_author_byline: true
   show_post_date: true
-  sidebar:
-    show_sidebar_adunit: false
-    text_link_label: ""
-    text_link_url: ""
-    text_series_label: Sobre esta serie
   tags:
   - hugo-site
 description: |
@@ -25,7 +20,9 @@ show_post_thumbnail: false
 sidebar:
   author: Carlos Puma
   description: |
-    Esta es una guia, la cual va ser útil para conocer los primeros pasos que se deben tomar en cuenta para poder utilizar Rstudio
+    Esta es una guia, la cual va ser útil para conocer los primeros pasos que se deben tomar en cuenta para poder utilizar Rstudio.
+    
+    1. [Dos](http://localhost:4321/blog/spoonful-series/2022-01-18-dos/) 
   show_sidebar_adunit: false
   sidebar_left: true
   text_link_label: "aver que pasa"
