@@ -1,4 +1,4 @@
-baseURL = "https://carlospuma.netlify.app//"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Blog Personal"
