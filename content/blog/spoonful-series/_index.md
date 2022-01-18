@@ -31,6 +31,7 @@ sidebar:
     Check out the _index.md file in the /blog/spoonful-series
     folder to edit this content.
   show_sidebar_adunit: false
+  sidebar_left: true
   text_link_label: ""
   text_link_url: ""
   title: A Spoonful of Hugo
