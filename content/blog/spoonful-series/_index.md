@@ -6,7 +6,7 @@ cascade:
   - Theme Features
   - R
   layout: single-series
-  series: A Spoonful of Hugo
+  series: Introducción a Rstudio
   show_author_byline: true
   show_post_date: true
   sidebar:
@@ -29,7 +29,7 @@ sidebar:
     Esta es una guia, la cual va ser útil para conocer los primeros pasos que se deben tomar en cuenta para poder utilizar Rstudio
   show_sidebar_adunit: false
   sidebar_left: true
-  text_link_label: ""
+  text_link_label: "aver que pasa"
   text_link_url: ""
   title: Introducción a Rstudio
 title: Introducción a Rstudio
