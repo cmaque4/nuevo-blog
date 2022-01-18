@@ -3,7 +3,7 @@ author: Carlos Puma
 cascade:
   author: Carlos Puma
   show_author_byline: false
-  show_comments: false
+  show_comments: true
   show_post_date: false
   sidebar:
     show_sidebar_adunit: true
@@ -34,12 +34,18 @@ sidebar:
 
                    aunque no llueva,\n
 
-                   me quedaré a tu lado.”
-</center>"
+                   me quedaré a tu lado...\n
+                   \n
+                   \n
+                   \n”
+</center>
+
+Aquí pondré diferentes trabajos que realice en Rstudio, aunque no detalle en muchas cosas, considero lo básico para que pueda entenderse las diferentes actividades que se haga en el programa, **Ante todo debe ser entendible para la otra persona**
+"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: "El Jardin de las Palabras..."
+  title: "El Jardin de las Palabras\n..."
 thumbnail_left: true
 title: Mi blog de trabajo
 ---
