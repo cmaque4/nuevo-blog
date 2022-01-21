@@ -1,0 +1,54 @@
+---
+title: Rmarkdown
+layout: single-sidebar
+author: Carlos Puma
+date: '2022-01-19'
+subtitle: An overview of the RStudio Instructor certification process and collection of resources to support anyone on their certification journey.
+summary: An overview of the RStudio Instructor certification process and collection of resources to support anyone on their certification journey.
+featured: true
+draft: false
+image:
+  placement: 1
+  caption: '[Illustration from starline on Freepik](https://www.freepik.com/free-vector/abstract-hexagonal-black-white-3d-background_5432173.htm)'
+  focal_point: Center
+  preview_only: false
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: false
+    toc_depth: 2
+categories:
+  - R
+  - Education
+  - tidyverse
+tags:
+  - RStudio
+  - R
+slug: rstudio-instructor-certification-tidyverse
+links:
+  - icon: github
+    icon_pack: fab
+    name: Teaching exam materials
+    url: https://github.com/spcanelon/rit-teaching-exam
+  - icon: file-code
+    icon_pack: far
+    name: Tidyverse exam v2.0 solution
+    url: /blog/2020-rstudio-instructor-certification-tidyverse/tidyverse-sample-exam-solutions.html
+---
+
+
+February 12th, 2021 was [Greg Wilson's last day at RStudio](https://twitter.com/gvwilson/status/1360304482496614402?s=20). This means he is no longer running the [instructor training program](https://education.rstudio.com/trainers/#info), so the future of the program is unclear. You may want to contact [traininginstructor@rstudio.com](mailto:traininginstructor@rstudio.com) with any specific questions.
+
+You can also jump down in this blog post to [Teaching resources](#teaching-resources) to find a consolidated list of materials previously taught as part of the RStudio certification program, in addition to some related resources (thanks to Yanina for adding to this list!).
+
+# uno
+
+## wdkcwdcw
+
+## wekdnwedwed
+
+# dos
+
+## dowdcw
+
+## ddcwpdcm

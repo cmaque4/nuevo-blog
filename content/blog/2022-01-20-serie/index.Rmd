@@ -1,0 +1,32 @@
+---
+title: sagan
+author: Carlos Puma
+date: '2022-01-18'
+slug: []
+categories: []
+tags: []
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://allisonhorst.github.io/palmerpenguins/
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/allisonhorst/palmerpenguins/
+- icon: newspaper
+  icon_pack: far
+  name: Blog post
+  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+---
+
+porvafor jajaajaja
+
+# memento
+
+## mementos
+
+## ideologias
+
+# ideologias
+
