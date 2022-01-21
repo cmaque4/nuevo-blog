@@ -20,8 +20,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Pirmera parte
-title: Portafolio de Proyectos
+  title: Prirmera parte
+title: Portafolio
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
