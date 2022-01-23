@@ -93,18 +93,18 @@ enableEmoji = true
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.facebook.com/carlomagno2.2"
-  #[[params.social]]
-      #icon      = "instagram" # icon name without the 'fa-'
-      #icon_pack = "fab"
-      #url       = "https://www.instagram.com/explore/tags/apero/"
+  [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "far"
+      url       = "mailto:cmaque4@gmail.com"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/PumaMaque"
-  #[[params.social]]
-      #icon      = "impactstory" # icon name without the 'fa-'
-      #icon_pack = "ai"
-      #url       = "https://impactstory.org/u/0000-0002-8082-1890"
+  [[params.social]]
+      icon      = "cv" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"

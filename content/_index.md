@@ -2,7 +2,7 @@
 action_label: Leer más &rarr;
 action_link: /about
 action_type: text
-description: Soy un estudiante de Psicología a punto de terminarla, son un fanático de la animación y del manejo del programa Rstudio, del cual aprendo todos los días 
+description: Soy un estudiante de Psicología a punto de terminarla, además de ser un fanático de la animación y del manejo del programa Rstudio, del cual aprendo todos los días cosas nuevas
 image_left: false
 images:
 - https://freakelitex.com/wp-content/uploads/2020/07/Mushoku-Tensei-v%C3%ADdeo.jpg
