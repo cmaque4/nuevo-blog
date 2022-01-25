@@ -1,7 +1,7 @@
 ---
 title: Subida de documentos
 excerpt: Aquí se muestra el proceso que aprendí para poder subir diferentes trabajos a la red, esto con ayuda de la Herramienta **`GitHub`**, la cual es la forma en que podemos subir los códigos que hagamos a la red para que sea modificado a nuestro gusto.
-subtitle: 'A ten-step workflow for creating an HTML xaringan slide deck and deploying it to the web using GitHub Pages'
+subtitle: 'Dos formas de subir nuestros proyectos a GitHub'
 author: Carlos Puma
 date: '2022-01-23'
 slug: []
@@ -67,4 +67,10 @@ usethis::use_git()
 usethis::use_github()
 ```
 
+- Aquí vamos a utilizar primero **`usethis::use_git()`** el cual nos a mostrar diferentes alternativas, y debemos aceptar o colocar de forma positiva las acciones, luego se va a conectar y volver a cargar nuestro Rstudio
+- Luego vamos a colocar **`usethis::use_github()`**, esta función nos a crear un nuevo repositorio en nuestro GitHub y podremos ver subidos nuestros archivos, y podemos hacer los cambios que queramos, con los pasos que están en el **Vídeo de Ejemplo**. 
 
+#### Enlaces de Referencias
+
+1. [Beatriz Milz](https://beatrizmilz.com/talk/2021-blogdown-apero/) coloca que la sección de código usado
+2. [Alison Hill](https://www.youtube.com/watch?v=yXFu_upDL2o) en su vídeo de creación de un blog
