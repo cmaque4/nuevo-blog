@@ -35,14 +35,14 @@ Luego de rediriginos a la pagina de **`Git`** vamos a precionar **Download for W
 
 **Paso 2**: Luego de obtener nuestro git, nos vamos a crear una cuenta en **`GitHub`** la cual es muy sencilla, solo nos vamos a su [página](https://github.com/) y nos creamos nuestra cuenta. 
  
-<img src="https://cdn.fbsbx.com/v/t59.2708-21/270166893_1061948367982531_5140137383535741867_n.gif?_nc_cat=103&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeFMJ5e3-hSUnK367xml7QGrSOCRPXvy7a5I4JE9e_LtrvCWNQqpeeQiJLIBSJ15gPl_s2TcV0o4aOKcYAEsDImJ&_nc_ohc=Bc4oZm7b8BcAX8Eycqa&_nc_ht=cdn.fbsbx.com&oh=03_AVLLnESA56BvmUqOyKsO9rLdgL-mbj2E_QuTfuzy3C2Erw&oe=61F23070" width="100%" style="display: block; margin: auto;" />
+<img src="https://cdn.fbsbx.com/v/t59.2708-21/272709524_300142215297915_5071314379844479178_n.gif?_nc_cat=106&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeET3aitqoTJEg9miNupwC696jynuXwFaGfqPKe5fAVoZ1hNr0E3SLvfncdA6NublP0U7jDY5JHIiUVx1zRrYJKb&_nc_ohc=nmKX18EwpiQAX-pLyY7&_nc_ht=cdn.fbsbx.com&oh=03_AVKTqDhIFFHlAo4O7qjJ-zqTUvrcSJkUGu6cFJyT80dvtA&oe=61F84933" width="100%" style="display: block; margin: auto;" />
 
 
 **Paso 3**: Cuando ya tengamos nuestra cuenta, vamos a crear un repositorio, el cual vamos a poder el nombre que queramos, puede ser publico o privado (es nuestra decisión) y por ultimo darle clic a README y creamos nuestro repositorio
 
 **Paso 4**: Luego vamos a ir a **Code** y copiamos ese link, en nuestro **GIT** de nuestro Rstudio, despues le damos **Open a new sesion** y creamos nuestro Proyecto, el cual va a estar conectado y podremos hacer los cambios que querramos sin que nuestro código se pierda.
 
-<img src="https://cdn.fbsbx.com/v/t59.2708-21/272709524_300142215297915_5071314379844479178_n.gif?_nc_cat=106&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeET3aitqoTJEg9miNupwC696jynuXwFaGfqPKe5fAVoZ1hNr0E3SLvfncdA6NublP0U7jDY5JHIiUVx1zRrYJKb&_nc_ohc=yqKGpuJJ1KoAX8uTqsR&_nc_ht=cdn.fbsbx.com&oh=03_AVIefTNDiF2JTqGt-foezusXDYBERgOna6hKaLbsv3Kh6Q&oe=61F108F3" width="100%" style="display: block; margin: auto;" />
+<img src="https://cdn.fbsbx.com/v/t59.2708-21/270166893_1061948367982531_5140137383535741867_n.gif?_nc_cat=103&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeFMJ5e3-hSUnK367xml7QGrSOCRPXvy7a5I4JE9e_LtrvCWNQqpeeQiJLIBSJ15gPl_s2TcV0o4aOKcYAEsDImJ&_nc_ohc=eLYAf2IJTl8AX_lOEDS&_nc_ht=cdn.fbsbx.com&oh=03_AVKKWttATkP-5qJNweNvDgqQ20KgnrvOxA83W4qtvs8Bog&oe=61F8C7F0" width="100%" style="display: block; margin: auto;" />
 
 ### Otra forma de hacerlo
 
