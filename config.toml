@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = ""
   orgLocal = ""
-  description = "Una entraga a mi blog personal."
+  description = "Una entraaa a mi blog personal."
   favicon = "https://cdn-icons-png.flaticon.com/128/3187/3187542.png"
   logo = "https://cdn-icons-png.flaticon.com/128/3187/3187542.png"
   mainSections = ["blog", "project", "talk"]
